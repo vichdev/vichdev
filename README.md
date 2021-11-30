@@ -7,7 +7,7 @@ Seja bem-vindo!!
 <div align="center">
   <a href="https://github.com/vichdev">
   <a href="https://github.com/vichdev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vichdev&theme=dark&hide_langs_below=1" />
+  <img align="center" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vichdev&theme=dark&hide_langs_below=1" />
 </a>
   <a href="https://github.com/vichdev">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vichdev&show_icons=true&theme=dark&line_height=27" alt="Victor's github stats"/>
@@ -33,7 +33,7 @@ Seja bem-vindo!!
  <div>
 
   <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=vichdev&color=green" alt="vichdev" /> <br>
-<hr>
+
  </div>  
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
