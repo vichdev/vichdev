@@ -1,4 +1,4 @@
-## Olá, Mundo! eu sou Victor. <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+## Olá, Mundo! eu me chamou Victor! Atualmente desenvolvedor front-end na Avonale Workplace. <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
 Desenvolvedor Front-End. 💻
 
