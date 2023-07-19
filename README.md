@@ -4,7 +4,7 @@ Desenvolvedor Front-End, Fullstack em desenvolvimento. 💻
 
 Seja bem-vindo!!
 
-Atualmente estou estudando -> Node.JS, Nuxt e Next.
+Atualmente estou estudando -> Node.JS e C#/.NET
 
 <div align="center">
   <a href="https://github.com/vichdev">
