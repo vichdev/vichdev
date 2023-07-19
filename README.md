@@ -1,4 +1,4 @@
-## Olá, Mundo! eu me chamo Victor! width="30">
+## Olá, Mundo! eu me chamo Victor!
 
 Desenvolvedor Front-End, Fullstack em desenvolvimento. 💻
 
