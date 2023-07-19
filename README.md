@@ -1,4 +1,4 @@
-## Olá, Mundo! eu me chamo Victor! Atualmente, sou desenvolvedor front-end na Avonale Workplace. <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+## Olá, Mundo! eu me chamo Victor! width="30">
 
 Desenvolvedor Front-End, Fullstack em desenvolvimento. 💻
 
