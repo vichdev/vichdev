@@ -56,6 +56,6 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vichdev/" height="30" width="40" />
 </a>
 
-<img align="center" src="./images/animated-waves.svg" width="100%" alt="Ondas animadas do Footer" />
+<img align="center" src="./images/waves.svg" width="100%" alt="Ondas animadas do Footer" />
 
 <!-- ![Snake animation](https://github.com/vichdev/vichdev/blob/output/github-contribution-grid-snake.svg) -->
