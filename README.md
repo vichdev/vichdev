@@ -5,7 +5,7 @@
   <img src="https://visitor-badge.feriirawann.repl.co/?username=murilonicemento&repo=murilonicemento&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=61DAFB&contentType=svg" alt="Contador de Visitas do Perfil no Github do Murilo" height="28px" />
 </div>
 
-- 🌱 I’m currently learning <strong style="color: #61DAFB;">Node.js and C#/.NET</strong>
+- 🌱 I’m currently learning <strong style="color: #61DAFB;">backend with Node.js and C#/.NET</strong>
 
 - 💬 Ask me about <strong style="color: #61DAFB;">anything you want</strong>
 
@@ -30,6 +30,7 @@
 </div>
 
 ## Languages
+<div> 
 
   <img align="center" alt="Victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Victor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -39,11 +40,15 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+</div>
 
 ## Tools
+<div>
+  
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">           
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+</div>
 
 ## Connect with me
 
