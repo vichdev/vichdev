@@ -58,4 +58,4 @@
 
 <img align="center" src="./images/animated-waves.svg" width="100%" alt="Ondas animadas do Footer" />
 
-<!-- ![Snake animation](https://github.com/murilonicemento/murilonicemento/blob/output/github-contribution-grid-snake.svg) -->
+<!-- ![Snake animation](https://github.com/vichdev/vichdev/blob/output/github-contribution-grid-snake.svg) -->
