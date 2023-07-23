@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Front-end Developer From Brazil</h3>
 
 <div align="left">
-  <img src="https://visitor-badge.feriirawann.repl.co/?username=murilonicemento&repo=murilonicemento&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=61DAFB&contentType=svg" alt="Contador de Visitas do Perfil no Github do Murilo" height="28px" />
+  <img src="https://visitor-badge.feriirawann.repl.co/?username=vichdev&repo=vichdev&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=61DAFB&contentType=svg" alt="Contador de Visitas do Perfil no Github do Victor Hugo" height="28px" />
 </div>
 
 - 🌱 I’m currently learning <strong style="color: #61DAFB;">Backend with Node.js and C#/.NET together with NuxtJS/NextJS on Front-end.</strong>
@@ -23,7 +23,7 @@
 <div>
   <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vichdev&theme=react&hide_border=true" alt="vichdev" />
   
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vichdev&show_icons=true&theme=react&locale=en&layout=compact&hide_border=true" alt="murilonicemento" />
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vichdev&show_icons=true&theme=react&locale=en&layout=compact&hide_border=true" alt="vichdev" />
 </div>
   <br/>
   <br/>
