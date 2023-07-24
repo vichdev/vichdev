@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor Hugo!</h1>
-<h3 align="center">A Passionate Front-end Developer From Brazil</h3>
+<h3 align="center">A Passionate Fullstack Developer From Brazil</h3>
 
 <div align="left">
   <img src="https://visitor-badge.feriirawann.repl.co/?username=vichdev&repo=vichdev&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=61DAFB&contentType=svg" alt="Contador de Visitas do Perfil no Github do Victor Hugo" height="28px" />
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning <strong style="color: #61DAFB;">Backend with Node.js and C#/.NET together with NuxtJS/NextJS on Front-end.</strong>
 
-- :computer: I’m currently working as Fullstack Developer on naPista app at Avonale Workplace using <strong style="color: #61DAFB;">VueJS</strong>
+- :computer: I’m currently working as Front-end Developer on naPista app at Avonale Workplace using <strong style="color: #61DAFB;">VueJS</strong>
 
 - 💬 Ask me about <strong style="color: #61DAFB;">anything you want</strong>
 
