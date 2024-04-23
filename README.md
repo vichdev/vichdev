@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning <strong style="color: #61DAFB;">Backend with Node.js and C#/.NET together with NuxtJS/NextJS on Front-end.</strong>
 
-- :computer: I’m currently working as Software Engineer at Kobold using <strong style="color: #61DAFB;">React.JS and C#</strong>
+- :computer: I’m currently working as Software Engineer at **Kob - Meios de Pagametos** using <strong style="color: #61DAFB;">React.JS and C#</strong>
 
 - 💬 Ask me about <strong style="color: #61DAFB;">anything you want</strong>
 
