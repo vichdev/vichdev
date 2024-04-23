@@ -7,8 +7,6 @@
 
 - 💬 Ask me about <strong style="color: #61DAFB;">anything you want</strong>
 
-- 👨‍💻 All of my projects are available at <a href="https://vichdev-portfolio.netlify.app" style="color: #61DAFB; font-weight: 700; text-decoration: none;">My Portfolio</a>
-
 - 📫 How to reach me <strong style="color: #61DAFB;">victor.hugo.antunes.n@gmail.com</strong>
 
 ## Activities
