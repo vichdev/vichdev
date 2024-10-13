@@ -18,10 +18,6 @@
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vichdev&show_icons=true&theme=react&locale=en&layout=compact&hide_border=true" alt="vichdev" />
 </div>
   <br/>
-  <br/>
-<div align="left">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vichdev&show_icons=true&theme=react&locale=en&hide_border=true" alt="vichdev" />
-</div>
 
 ## Languages
 <div> 
